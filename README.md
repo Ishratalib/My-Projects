@@ -131,6 +131,25 @@ https://react-routes-project.netlify.app/
 https://github.com/Ishratalib/React-Routes.git
 
 
+### 10. Food Ordering System
+
+#### Project Overview
+
+A full-stack Food Ordering System built with React and Django REST Framework. The frontend provides the user interface for food ordering, while the backend handles API services and communicates with the frontend. Both parts are maintained in separate GitHub repositories and integrated to deliver a complete food-ordering application.
+
+#### Live Demo
+
+**Frontend:** https://food-ordering-system-123-8ah1kexf0-ishrat-talib.vercel.app/
+
+**Backend:** https://ishratalib.pythonanywhere.com/
+
+#### GitHub Repository
+
+**Frontend Repository:** https://github.com/Ishratalib/Food-Ordering-System
+
+**Backend Repository:** https://github.com/Ishratalib/Backend-of-Food-ordering
+
+
 ## Author
 
 **Ishrat Talib**
