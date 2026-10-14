@@ -139,15 +139,32 @@ A full-stack Food Ordering System built with React and Django REST Framework. Th
 
 #### Live Demo
 
-**Frontend:** https://food-ordering-system-123-8ah1kexf0-ishrat-talib.vercel.app/
+**Frontend (Vercel):** https://food-ordering-system-123-8ah1kexf0-ishrat-talib.vercel.app/
 
-**Backend:** https://ishratalib.pythonanywhere.com/
+**Backend (PythonAnywhere):** https://ishratalib.pythonanywhere.com/
 
 #### GitHub Repository
 
 **Frontend Repository:** https://github.com/Ishratalib/Food-Ordering-System
 
 **Backend Repository:** https://github.com/Ishratalib/Backend-of-Food-ordering
+
+
+### 11. Hospital Management System
+
+#### Project Overview
+
+A full-stack Hospital Management System built with Next.js, React, TypeScript, Tailwind CSS, and Supabase. The application supports role-based access for Admin, Doctor, and Patient users, with features for hospital dashboard management, patient and doctor information, billing, invoices, and payment records.
+
+#### Live Demo
+
+**Frontend (Vercel):** https://hospital-management-system-d2td.vercel.app/
+
+**Backend & Database (Supabase):** Hosted on Supabase.
+
+#### GitHub Repository
+
+https://github.com/Ishratalib/Hospital-Management-System.git
 
 
 ## Author
